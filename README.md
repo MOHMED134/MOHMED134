@@ -19,6 +19,10 @@ I care about writing maintainable code, structuring applications with clear arch
 - **Integrations:** Maps & Location Services, AWS S3
 - **Tools:** Git, VS Code, Android Studio
 
+## Selected Case Studies
+
+- [Healthcare Mobile Application](case-studies/healthcare-mobile-application/) — Flutter development, feature implementation, API integration, and state management. Shared as a documentation-only case study due to project confidentiality.
+
 ## Areas of Experience
 
 - Developing and maintaining production Flutter applications.
