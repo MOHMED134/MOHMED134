@@ -19,10 +19,12 @@ I care about writing maintainable code, structuring applications with clear arch
 - **Integrations:** Maps & Location Services, AWS S3
 - **Tools:** Git, VS Code, Android Studio
 
-## Featured Projects
+## Featured Projects & Case Studies
 
+- [Bus14 — School Transportation Application](case-studies/bus14-school-transportation/) — Production Flutter application; feature development, maintenance, API integration, and release support.
+- [Multi-Role Business Mobile Application](case-studies/multi-role-business-mobile-app/) — Confidential production project; role-based workflows, API integration, real-time and location-related functionality.
+- [Healthcare Mobile Application — Case Study](case-studies/healthcare-mobile-application/) — Confidential healthcare project presented as a documentation-only case study.
 - [E-Commerce Mobile App](https://github.com/MOHMED134/e_commerce_app) — Individual Flutter project featuring API-driven product browsing, search, cart functionality, and Provider state management.
-- [Healthcare Mobile Application — Case Study](case-studies/healthcare-mobile-application/) — Confidential client project presented as a documentation-only case study.
 - [Oswa-Hassana](https://github.com/MOHMED134/Oswa-Hassana) — Team project; see repository for project visuals.
 
 ## Areas of Experience
@@ -30,7 +32,7 @@ I care about writing maintainable code, structuring applications with clear arch
 - Developing and maintaining production Flutter applications.
 - Implementing features and integrating backend APIs.
 - Working with authentication, real-time updates, and location-based services.
-- Managing Android and iOS application releases.
+- Supporting Android and iOS application delivery.
 - Improving application structure, maintainability, and user experience.
 
 ## Currently Exploring
