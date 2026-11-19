@@ -1,32 +1,37 @@
 # Hi, I'm Mohamed Abdullah 👋
 
-### Mobile & Backend Developer | Flutter & Dart
+### Flutter Developer | Dart | BLoC/Cubit | Clean Architecture
 
-I build mobile applications with Flutter and Dart, with a growing focus on backend development and end-to-end product engineering.
+I'm a Flutter Developer focused on building and maintaining cross-platform mobile applications for Android and iOS.
 
-My experience includes developing and maintaining production Flutter applications, implementing features across different business workflows, integrating REST APIs, and working with real-time communication and location-based features.
+I have hands-on experience working on production applications, implementing features across different business workflows, integrating REST APIs, and building mobile experiences with real-time communication and location-based functionality.
 
-I'm currently working across mobile and backend development, taking responsibility for building application functionality from the ground up while focusing on maintainable, modular, and scalable solutions.
+I care about writing maintainable code, structuring applications with clear architecture, and delivering reliable features in existing and new Flutter projects.
 
-## Core Skills
+## Technical Skills
 
-- **Mobile:** Flutter, Dart, Android, iOS
+- **Mobile Development:** Flutter, Dart, Android, iOS
 - **State Management:** BLoC, Cubit
-- **Architecture:** Clean Architecture, Repository Pattern
-- **API & Integration:** REST APIs, Dio, SignalR
-- **Backend & Data:** Backend development, API development, database design
+- **Architecture & Design:** Clean Architecture, Repository Pattern
+- **Networking & APIs:** REST APIs, Dio
+- **Real-time Communication:** SignalR
 - **Firebase:** Crashlytics, Remote Config, Cloud Messaging
-- **Other:** Git, Maps & Location Services, AWS S3 integration
+- **Integrations:** Maps & Location Services, AWS S3
+- **Tools:** Git, VS Code, Android Studio
 
-## What I'm Working On
+## Areas of Experience
 
-- Building and maintaining cross-platform mobile applications.
-- Developing application features and integrating backend services.
-- Improving application architecture, code organization, and user experience.
-- Expanding my backend engineering skills through hands-on product development.
+- Developing and maintaining production Flutter applications.
+- Implementing features and integrating backend APIs.
+- Working with authentication, real-time updates, and location-based services.
+- Managing Android and iOS application releases.
+- Improving application structure, maintainability, and user experience.
+
+## Currently Exploring
+
+- Backend development and API engineering.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-abdullah-6b6105232/)
 - [Email](mailto:mohamedabdullah1348744@gmail.com)
-
